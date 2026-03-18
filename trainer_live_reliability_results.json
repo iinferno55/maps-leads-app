@@ -1,0 +1,35 @@
+{
+  "total_elapsed_s": 313.47,
+  "results": [
+    {
+      "niche": "plumber",
+      "city": "phoenix",
+      "pass": false,
+      "snippet_count": 0,
+      "first6_substantial": 0,
+      "owner_response_in_first6": false,
+      "unexpanded_marker_in_first6": false,
+      "sample": [],
+      "elapsed_s": 147.3
+    },
+    {
+      "niche": "HVAC",
+      "city": "dallas",
+      "pass": false,
+      "snippet_count": 0,
+      "first6_substantial": 0,
+      "owner_response_in_first6": false,
+      "unexpanded_marker_in_first6": false,
+      "sample": [],
+      "elapsed_s": 134.04
+    },
+    {
+      "niche": "electrician",
+      "city": "seattle",
+      "pass": false,
+      "error": "Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"section[data-testid=\\\"stSidebar\\\"]\").get_by_label(\"City (trainer)\")\n",
+      "elapsed_s": 31.13
+    }
+  ],
+  "all_passed": false
+}

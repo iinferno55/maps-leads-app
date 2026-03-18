@@ -1,0 +1,177 @@
+{
+  "search_query": "locksmith in sacramento",
+  "qualified_count": 0,
+  "processed_count": 5,
+  "rows": [
+    {
+      "business_name": "Swift Locksmith",
+      "address": "\ue0c8\n2514 Key W Way, Sacramento, CA 95826",
+      "phone": "\ue0b0",
+      "website": "https://swift-locksmith.com/",
+      "owner_name": "Unknown",
+      "confidence_score": 0.0,
+      "solo": false,
+      "num_reviews": 106,
+      "debug": {
+        "place_url": "https://www.google.com/maps/place/Swift+Locksmith/data=!4m7!3m6!1s0x809adb5d5217c291:0x3f21ff7fcc13330a!8m2!3d38.5658383!4d-121.3653676!16s%2Fg%2F11fy4hyphf!19sChIJkcIXUl3bmoARCjMTzH__IT8?authuser=0&hl=en&rclk=1",
+        "candidate_review_count": 106,
+        "card_review_snippet": "Got to me within 20 minutes, unlocked my car in 2 min.",
+        "review_tab_opened": true,
+        "review_snippet_count": 6,
+        "sample_review_snippets": [
+          "Very quick to respond within 30 minutes made a brand new key fob for my subaru as well as provided me a couple batteries for another auto key fob. He completed the job in less than 1 hour very happy with his service definitely recommend this business if you need automotive key lock repair.",
+          "Nick was very helpful in getting us a new key for our car. He was quick, communicated with us and kept me in the loop and made sure everything was working before he left. I would recommend and use Nick & swift locksmith again for services in the future.",
+          "I had an amazing experience with their same-day service! They were incredibly fast, efficient, and offered very reasonable pricing. They changed out the locks quickly and even provided an extra set of keys. I highly recommend their professional and reliable service!",
+          "Excellent works and communication. I love the down to earth attitude and straight forward approach. Recommended!",
+          "Joe was very professional and had a fast response time and was able to resolve the problem in 30 minutes and I am very happy to recommend his services",
+          "Excellent service! Got my car key copied and fob programmed for my newer Toyota truck. Provided quote within minutes. Easy to schedule service and came to my location. Very competitive price. Showed up prompt and completed the job quick. Very thorough!"
+        ],
+        "limited_view": false,
+        "used_card_snippet": false,
+        "worker_timed_out": false,
+        "detail_review_count": 106,
+        "errors": [],
+        "source": "direct_url_fallback",
+        "review_sort_enforced": true,
+        "qualified_lead": false,
+        "reject_reason": "Not marked solo by owner detection"
+      }
+    },
+    {
+      "business_name": "VIP Auto Key",
+      "address": "\ue0c8\n9144 Jackson Rd Ste E, Sacramento, CA 95826",
+      "phone": "\ue0b0",
+      "website": "https://sacramentoautolocksmith.com/",
+      "owner_name": "Unknown",
+      "confidence_score": 0.0,
+      "solo": false,
+      "num_reviews": 24,
+      "debug": {
+        "place_url": "https://www.google.com/maps/place/VIP+Auto+Key/data=!4m7!3m6!1s0x809ac5639119ae1d:0x2200eb95df265e13!8m2!3d38.5356092!4d-121.3612494!16s%2Fg%2F11m5p8fj8m!19sChIJHa4ZkWPFmoARE14m35XrACI?authuser=0&hl=en&rclk=1",
+        "candidate_review_count": 24,
+        "card_review_snippet": "Very knowledgeable, efficient and great price.",
+        "review_tab_opened": true,
+        "review_snippet_count": 6,
+        "sample_review_snippets": [
+          "Honestly had a great experience, They were very quick to actually get the key programmed, and was professional on making sure your car and property is taken care of right. Was even able to show me a feature on my Key Fob I didn\u2019t know it had. Saved myself more money than what I was quoted for just a key fob at dealer. Would Recommend to anyone looking to get a key cut or programmed",
+          "I brought an aftermarket BMW key I purchased online to VIP Auto Key, and they went above and beyond. While most shops would have turned me away due to lack of experience, VIP immediately recognized what needed to be done. The key required a special process to work properly, and watching them handle it with such skill was impressive. It now works flawlessly! This is where you truly see the difference between someone just trained to cut keys and a real expert with deep technical know-how. VIP Auto Key delivers top-tier customer service and expertise\u2014A++ all the way! Amazing prices! Go ahead, shop elsewhere and you\u2019ll see the quality and price for the A+ work they offer here.",
+          "I had someone attempt to steal my vehicle and do severe damage to the ignition. I called VIP Auto Key and had a technician here within the hour. He was very helpful and responsive. I would highly recommend this company to anyone looking for auto locksmiths. Nice to have a business owner who is helpful, prompt, kind and understanding. Will definitely use them again if needed.",
+          "Great service. I called for a vehicle lockout. They answered the call, we're on site in 20 minutes and 10 minutes later had the car unlocked. 30 minutes from call to completion for a very reasonable price. I will definitely recommend and call VIP Auto Key again. Thanks! Services Car lockouts",
+          "Yuriy saved me today from loosing my key, pulled up onsite had a new key cut and programmed within an hour and for a very reasonable price 10/10",
+          "Yuri was amazing. Great customer service. Yuri was able to meet me at my car and make a new key so I could get my car to start. He was able to diagnose my problem and fix it quickly. Price was much better than I expected. I highly recommend VIP Auto Key."
+        ],
+        "limited_view": false,
+        "used_card_snippet": false,
+        "worker_timed_out": false,
+        "detail_review_count": 24,
+        "errors": [],
+        "source": "direct_url_fallback",
+        "review_sort_enforced": true,
+        "qualified_lead": false,
+        "reject_reason": "Not marked solo by owner detection"
+      }
+    },
+    {
+      "business_name": "MO Locksmith Services",
+      "address": "\ue0c8\n9738 Elk Grove Florin Rd A, Elk Grove, CA 95624",
+      "phone": "\ue0b0",
+      "website": "http://www.molocksmithservices.com/",
+      "owner_name": "Unknown",
+      "confidence_score": 0.0,
+      "solo": false,
+      "num_reviews": 48,
+      "debug": {
+        "place_url": "https://www.google.com/maps/place/MO+Locksmith+Services/data=!4m7!3m6!1s0x809ac588542f5ebb:0x7a4982643c08ab16!8m2!3d38.4039562!4d-121.3720273!16s%2Fg%2F11j0tlg7_x!19sChIJu14vVIjFmoARFqsIPGSCSXo?authuser=0&hl=en&rclk=1",
+        "candidate_review_count": 48,
+        "card_review_snippet": "He took very fast on my key replacements and my other key needs.",
+        "review_tab_opened": true,
+        "review_snippet_count": 6,
+        "sample_review_snippets": [
+          "Needed a car key clone and was going to walk in. Unfortunately the store wasn't open so I called to schedule an appointment. The next day, the store was open. I walked in, got it cloned immediately, and was charged $40. I walked out to try it out but my car wasn't starting with it. They noticed and informed me that the car reads the chip from the old key remote, and needed to be moved onto the new one. The remote was already paired, so it was only a matter of moving the electrical components from the old one to the new one. This was done free of charge, but if it needed re-pairing there may be a charge with it. Customer service was good. They smiled and knew what needed to be done.",
+          "Gentlemen responded quickly on FB. He was very negotiable and accommodating with time and place to provide a new remote key for my 2020 Toyota. He drove out to me even with negotiating a price. Very friendly and quick. I recommend!",
+          "Amazing Customer service, finished the work very quick, I don\u2019t usually write reviews but these guys saved me so much money and time and specially with my car which most companies declined they stood up and took it on themselves. A review can\u2019t express my gratitude for them. Best places definitely going to refer more to them.",
+          "I needed a spare for my 2014 toyota. Drove by and seen the open sign on the building. Very happy that I did. Gave me a great price. He cut the key went outside to program the key and get to work. I had sat down outside on the walk way of the building. He seen that and pulled a chair outside for me and gave me a bottle of water! Super friendly guy. Customer service \ud83d\udcaf. Much appreciated. They have my future business for any locksmith needs. Support small businesses!!! Services Car digital & remote key reprogramming",
+          "Mo, Yes, excellent, knowledgeable and very kind!! Good customer service, answers phone right away. Connect to me quickly. It was an emergency that I changed my locks. Grateful grateful just great service. Great guy. Mo is your guy.",
+          "ITS ALL ABOUT THE MOM AND POP SHOPS! GIVE THEM YOUR DOLLAR WHEN YOU NEED THIER SERVICES!! I HAD A HELL OF A BLAST GETTING MY KEY ISSUE FIXED WITH MO BECAUSE I KNEW I WAS IN GOOD HANDS #DIVIDE&CONQUER"
+        ],
+        "limited_view": false,
+        "used_card_snippet": false,
+        "worker_timed_out": false,
+        "detail_review_count": 48,
+        "errors": [],
+        "source": "direct_url_fallback",
+        "review_sort_enforced": true,
+        "qualified_lead": false,
+        "reject_reason": "Not marked solo by owner detection"
+      }
+    },
+    {
+      "business_name": "GM Locksmith inc",
+      "address": "\ue0c8\n3400 Cottage Way, Sacramento, CA 95825",
+      "phone": "\ue0b0",
+      "website": "https://www.gmlocksmith247.com/",
+      "owner_name": "Unknown",
+      "confidence_score": 0.0,
+      "solo": false,
+      "num_reviews": 18,
+      "debug": {
+        "place_url": "https://www.google.com/maps/place/GM+Locksmith+inc/data=!4m7!3m6!1s0x809adb427fc06d2d:0xa7088596326816b3!8m2!3d38.602864!4d-121.383553!16s%2Fg%2F11fks6zrh1!19sChIJLW3Af0LbmoARsxZoMpaFCKc?authuser=0&hl=en&rclk=1",
+        "candidate_review_count": 18,
+        "card_review_snippet": "He was so quick and extra accommodating and inexpensive.",
+        "review_tab_opened": true,
+        "review_snippet_count": 6,
+        "sample_review_snippets": [
+          "He was able to come late at night after my boyfriend and I couldn\u2019t find our car key. He gave us two keys for the price that another company was going to charge us for one.",
+          "He was so quick and extra accommodating and inexpensive. Definitely with recommend",
+          "Prompt, same day service, but do not let these guys quote you when they get there, definitely hold them to a quote before they start work. Very expensive, at least double reasonable rates.",
+          "They are very quick very friendly outstanding work and a very good price beats any other price I've had quoted",
+          "Very nice and polite guy, his price was cheap compared to other places.",
+          "Fast and amazing service thank you amos great job."
+        ],
+        "limited_view": false,
+        "used_card_snippet": false,
+        "worker_timed_out": false,
+        "detail_review_count": 18,
+        "errors": [],
+        "source": "direct_url_fallback",
+        "review_sort_enforced": true,
+        "qualified_lead": false,
+        "reject_reason": "Not marked solo by owner detection"
+      }
+    },
+    {
+      "business_name": "Certified Safe & Lock Co.",
+      "address": "\ue0c8\n5927 Folsom Blvd, Sacramento, CA 95819",
+      "phone": "\ue0b0",
+      "website": "https://www.sacalarm.com/csl-locksmith",
+      "owner_name": "Unknown",
+      "confidence_score": 0.0,
+      "solo": false,
+      "num_reviews": 27,
+      "debug": {
+        "place_url": "https://www.google.com/maps/place/Certified+Safe+%26+Lock+Co./data=!4m7!3m6!1s0x809ada857dcbd77f:0xfd6bea92cde11798!8m2!3d38.557402!4d-121.4348137!16s%2Fg%2F1w112fnv!19sChIJf9fLfYXamoARmBfhzZLqa_0?authuser=0&hl=en&rclk=1",
+        "candidate_review_count": 27,
+        "card_review_snippet": "The keys they make are excellent every time.",
+        "review_tab_opened": true,
+        "review_snippet_count": 6,
+        "sample_review_snippets": [
+          "So these guys are awesome. I showed up at two minutes before closing and three minutes later. I was leaving with four cut keys. If you need it for safe and lock, they\u2019ve got it.",
+          "The keys they make are excellent every time. Don\u2019t go anywhere else\ud83d\udc4d joey",
+          "Excellent locksmith! Grateful for them.",
+          "Great customer service! Are you tired of wasting your time with keys made by the big box stores that rarely work when you get home? These guys make keys that work the first time.",
+          "A million thanks to Certified Safe & Lock Co and Technician Jim! As I was briefly outside locking my side gate, my laundryroom door shut and locked me out of the house. I walked over to Certified and they immediately added me to Technician Jim's service schedule. He arrived within the hour, and within a few minutes, he unlocked my stubborn security door and also rekeyed it at the same time, which I was meaning to have done since I moved in 2 years ago. In sum, Certified scheduled me immediately despite being shortstaffed and Technician Jim killed two birds with one stone for such a reasonable price! I'm thoroughly impressed with the company and Technician Jim's professionalism and skills. I highly recommend them for all your lock and key needs! They have a customer for life! Positive Punctuality, Quality, Professionalism, Value",
+          "Great service, they re keyed some doors, they came right away and they are local, don't trust any other ads on the area that don't have a true stablished bussines they being on bussines since 1947."
+        ],
+        "limited_view": false,
+        "used_card_snippet": false,
+        "worker_timed_out": false,
+        "detail_review_count": 27,
+        "errors": [],
+        "source": "direct_url_fallback",
+        "review_sort_enforced": true,
+        "qualified_lead": false,
+        "reject_reason": "Not marked solo by owner detection"
+      }
+    }
+  ]
+}

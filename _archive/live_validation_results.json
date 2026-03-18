@@ -1,0 +1,164 @@
+{
+  "total_elapsed_s": 218.01,
+  "results": [
+    {
+      "niche": "plumber",
+      "city": "phoenix",
+      "rows": 6,
+      "pass": false,
+      "elapsed_s": 66.72,
+      "picked_business": "",
+      "picked_snippets": 0,
+      "diagnostics": [
+        {
+          "business": "Sunrise Plumbing Contractors, LLC",
+          "snippet_count": 0,
+          "first6_count": 0,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "All Hours Plumbing, Emergency Plumber",
+          "snippet_count": 2,
+          "first6_count": 2,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Ocean Plumbing LLC",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Arid Valley Plumbing",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Elite Plumbers Phoenix",
+          "snippet_count": 1,
+          "first6_count": 1,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Smiley Plumbing",
+          "snippet_count": 2,
+          "first6_count": 2,
+          "owner_response": false,
+          "has_more_marker": false
+        }
+      ]
+    },
+    {
+      "niche": "HVAC",
+      "city": "dallas",
+      "rows": 6,
+      "pass": false,
+      "elapsed_s": 72.38,
+      "picked_business": "",
+      "picked_snippets": 0,
+      "diagnostics": [
+        {
+          "business": "Dalltex Air Conditioning and Heating",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "M. B. Kiser Heating & Air Conditioning Co. Inc.",
+          "snippet_count": 1,
+          "first6_count": 1,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Saul Ramirez Heating & A/C",
+          "snippet_count": 1,
+          "first6_count": 1,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Climate Tech Air Conditioning & Heating, LLC",
+          "snippet_count": 1,
+          "first6_count": 1,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "A-Anderson A/C Electric & Heating Company",
+          "snippet_count": 4,
+          "first6_count": 4,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Efficient Home Solutions of Dallas",
+          "snippet_count": 2,
+          "first6_count": 2,
+          "owner_response": false,
+          "has_more_marker": false
+        }
+      ]
+    },
+    {
+      "niche": "electrician",
+      "city": "seattle",
+      "rows": 6,
+      "pass": false,
+      "elapsed_s": 78.92,
+      "picked_business": "",
+      "picked_snippets": 0,
+      "diagnostics": [
+        {
+          "business": "Electric Company of Seattle",
+          "snippet_count": 2,
+          "first6_count": 2,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Mirsky Electric",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Kemly Electric",
+          "snippet_count": 2,
+          "first6_count": 2,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Reign City Electric",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Seattle Electricians Today",
+          "snippet_count": 3,
+          "first6_count": 3,
+          "owner_response": false,
+          "has_more_marker": false
+        },
+        {
+          "business": "Home Electric\u0456an Seattle",
+          "snippet_count": 1,
+          "first6_count": 1,
+          "owner_response": false,
+          "has_more_marker": false
+        }
+      ]
+    }
+  ]
+}

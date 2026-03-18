@@ -1,0 +1,8 @@
+﻿rows 5
+0 Floor n more listed 57 pulled 1 snips 1 used_card True source direct_url_fallback gap Pulled 1/57 (direct-URL fallback).
+1 Dallas Paints - East Dallas listed 13 pulled 1 snips 1 used_card True source direct_url_fallback gap Pulled 1/13 (direct-URL fallback).
+2 First Floors Carpet One Floor & Home listed 115 pulled 1 snips 1 used_card True source direct_url_fallback gap Pulled 1/115 (direct-URL fallback).
+3 Dallas Floor & Remodel listed 14 pulled 1 snips 1 used_card True source direct_url_fallback gap Pulled 1/14 (direct-URL fallback).
+4 Floor & Decor Design Studio listed 89 pulled 1 snips 1 used_card True source direct_url_fallback gap Pulled 1/89 (direct-URL fallback).
+prepared 5
+stats {'input_count': 5, 'kept_count': 5, 'strong_count': 0, 'filtered_weak_count': 0, 'fallback_used': True}

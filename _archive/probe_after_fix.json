@@ -1,0 +1,58 @@
+{
+  "rows": 5,
+  "prepared": 1,
+  "stats": {
+    "input_count": 5,
+    "kept_count": 1,
+    "strong_count": 1,
+    "filtered_weak_count": 4,
+    "fallback_used": false
+  },
+  "items": [
+    {
+      "name": "Floor n more",
+      "listed": 57,
+      "pulled": 1,
+      "snips": 1,
+      "used_card": true,
+      "source": "direct_url_fallback",
+      "gap": "Pulled 1/57 (direct-URL fallback)."
+    },
+    {
+      "name": "Willow Floors",
+      "listed": 45,
+      "pulled": 6,
+      "snips": 6,
+      "used_card": false,
+      "source": "direct_url_fallback",
+      "gap": ""
+    },
+    {
+      "name": "Floor & Decor Design Studio",
+      "listed": 89,
+      "pulled": 1,
+      "snips": 1,
+      "used_card": true,
+      "source": "direct_url_fallback",
+      "gap": "Pulled 1/89 (direct-URL fallback)."
+    },
+    {
+      "name": "North Dallas Flooring",
+      "listed": 33,
+      "pulled": 1,
+      "snips": 1,
+      "used_card": true,
+      "source": "direct_url_fallback",
+      "gap": "Pulled 1/33 (direct-URL fallback)."
+    },
+    {
+      "name": "First Floors Carpet One Floor & Home",
+      "listed": 115,
+      "pulled": 1,
+      "snips": 1,
+      "used_card": true,
+      "source": "direct_url_fallback",
+      "gap": "Pulled 1/115 (direct-URL fallback)."
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "total_elapsed_s": 287.57,
+  "passed": false,
+  "results": [
+    {
+      "niche": "mobile detailer",
+      "city": "san jose",
+      "pass": false,
+      "elapsed_s": 92.41,
+      "rows": 8,
+      "fail_reasons": {
+        "only_0": 8
+      },
+      "top_rows": [
+        {
+          "business_name": "Prestige Shine Mobile Detailing",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Prestige+Shine+Mobile+Detailing/data=!4m7!3m6!1s0x8ae8ae477a59d83:0x9eece656ec4a4743!8m2!3d37.3176899!4d-121.8955391!16s%2Fg%2F11svfy21x2!19sChIJg52ld-SKrggRQ0dK7Fbm7J4?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 54,
+            "card_review_snippet": "His mobile detailing business is fast, reliable, and never disappoints.",
+            "review_tab_opened": true,
+            "review_snippet_count": 5,
+            "sample_review_snippets": [
+              "Prestige Shine Mobile Detailing provided outstanding service. My vehicle looks showroom-ready inside and out – the paint has a deep gloss, the wheels and glass are spotless, and the interior was cleaned meticulously, including all the",
+              "Andrew is absolutely amazing at what he does. I have a brand new cybertruck that has been wrapped in PPF which requires special care when washing/detailing the vehicle as not to leave any scratches. I chose to go with Andrew based on all of",
+              "I literally trust these guys with my car & my key while I'm away. They're very honest people. If you ever want a detail done while you're away, you can trust them with your car key. It's such a nice feeling to return home to a clean car.",
+              "He also wiped down and vacuumed the interior and polished the fog light lenses.",
+              "Very fair prices and great customer service."
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 54,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_pull_gap": {
+              "listed": 54,
+              "pulled": 5,
+              "target": 6,
+              "note": "Pulled 5/54 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Essence Mobile Auto Detailing",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Essence+Mobile+Auto+Detailing/data=!4m7!3m6!1s0x808e31a7b146f537:0x992870c9b821b28a!8m2!3d37.2487806!4d-121.8675184!16s%2Fg%2F11t85pdgzr!19sChIJN_VGsacxjoARirIhuMlwKJk?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 62,
+            "card_review_snippet": "When I arrived at the shop, my Alfa was shining like it was brand new!",
+            "review_tab_opened": true,
+            "review_snippet_count": 2,
+            "sample_review_snippets": [
+              "found Essence Auto Detailing on the Ceramic Pro website listing them as an elite dealer which offered the Ceramic Coating i wanted: Ultimate ION package (details of package found on Essence Auto Detailing Website). I HIGHLY recommend Jose and his team. They were friendly, professional and finished my car quickly. The cost for the package is expensive no matter what, but Essence Auto was competively priced! THE DETAILING ON, AROUND AND INSIDE OF THE CAR IS IMMACULATE. This was better quality detailing than the dealership when I bought my car weeks before bringing it to Essence. The Ceramic coating looks amazing and is evenly coated. I will be returning to Jose at Essence Auto for my hand wash and detailing (which is suggested for best optimal Ceramic Coatic performance and longevity) I could not be more satisfied. You would be a fool to go elsewhere.",
+              "I had FFP and Ceramic coating applications to my new Tesla Model Y recently, and I am very satisfied with the professional work done by Jose. My car is pristine shining throughout. Jose is a honest and hard working person, he has the experience and the expertise in all aspects of car detailing. He gives suggestions for the best benefits you will get from the product and the price is also reasonable. After the initial application process, I was invited to come back in one week to Essence where Jose inspected the car again and applied the necessary finial touch up free of charge. That is a very nice after work service that is much appreciated. Highly recommended."
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 62,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 62,
+              "pulled": 2,
+              "target": 6,
+              "note": "Pulled 2/62 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Robinson's Mobile Detailing",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Robinson%27s+Mobile+Detailing/data=!4m7!3m6!1s0x808e31aa77c9b897:0x402455c46bfb26fb!8m2!3d37.2252539!4d-121.861309!16s%2Fg%2F11yfpdh64q!19sChIJl7jJd6oxjoAR-yb7a8RVJEA?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 13,
+            "card_review_snippet": "When it was done, my car genuinely looked brand new again.",
+            "review_tab_opened": true,
+            "review_snippet_count": 2,
+            "sample_review_snippets": [
+              "After a long road trip with three kids, my Audi A7 desperately needed some love. Robinson’s Detailing absolutely delivered. The car looks incredible — honestly, the pictures speak for themselves. Every surface feels brand new again. He was meticulous, thorough, and clearly takes pride in his work. Beyond the results, he’s extremely professional and personable. The whole experience was easy and seamless. Highly recommend Robinson’s Detailing if you want your car brought back to life.",
+              "⭐️⭐️⭐️⭐️⭐️ Absolutely outstanding detail service!"
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 13,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 13,
+              "pulled": 2,
+              "target": 6,
+              "note": "Pulled 2/13 (direct-URL fallback)."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "niche": "plumber",
+      "city": "phoenix",
+      "pass": false,
+      "elapsed_s": 97.67,
+      "rows": 8,
+      "fail_reasons": {
+        "only_0": 8
+      },
+      "top_rows": [
+        {
+          "business_name": "All Hours Plumbing, Emergency Plumber",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/All+Hours+Plumbing,+Emergency+Plumber/data=!4m7!3m6!1s0x872b69f43ab1497b:0xeab39e62a0ea6ac8!8m2!3d33.6159029!4d-112.015689!16s%2Fg%2F11h1s845xx!19sChIJe0mxOvRpK4cRyGrqoGKes-o?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 64,
+            "card_review_snippet": "Great communication, very considerate, and he fixed our problem quickly.",
+            "review_tab_opened": true,
+            "review_snippet_count": 2,
+            "sample_review_snippets": [
+              "I came home from work and my main line to the street was leaking and backing up- no way this could wait until morning. James was at my house within the hour to diagnose the problem. He used their state of the art camera to show me the mess of roots that had grown into the line. He freed it up enough to get through the night, giving me options for next steps. I had him come back the next day with high power equipment and he was able to 100%clear the line and show me that the integrity of the pipe was still solid. Their prices were so reasonable and everything was spelled out upfront. I’m so grateful for their quick response and wonderful customer service.",
+              "Just finished another great experience with All Hours Plumbing. This was the second time they've come through for us with an emergency leak, and both times were on the weekend and in the evenings. Fast response, thorough fix, and great price. Absolutely pleased with this company and the service James provided. Highly recommended!"
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 64,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 64,
+              "pulled": 2,
+              "target": 6,
+              "note": "Pulled 2/64 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Ocean Plumbing LLC",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Ocean+Plumbing+LLC/data=!4m7!3m6!1s0xeb21c51cf440bcb:0xb6aafdaf039a6e7e!8m2!3d33.5637438!4d-112.1090749!16s%2Fg%2F11ldr__1fb!19sChIJywtEz1Ecsg4Rfm6aA6_9qrY?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 95,
+            "card_review_snippet": "... to thoroughly assess and address our complex plumbing issues.",
+            "review_tab_opened": true,
+            "review_snippet_count": 3,
+            "sample_review_snippets": [
+              "Gorge did a fantastic job clearing my drain and replacing a valve in my shower.",
+              "Great service! Jordan responded to our emergency call on a Saturday morning.",
+              "All work completed on time on price as promised."
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 95,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_pull_gap": {
+              "listed": 95,
+              "pulled": 3,
+              "target": 6,
+              "note": "Pulled 3/95 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Arid Valley Plumbing",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Arid+Valley+Plumbing/data=!4m7!3m6!1s0x872b6f4563ff61c7:0x60b5bc5b1f9058ee!8m2!3d33.6793074!4d-112.1059083!16s%2Fg%2F11xm63lnyr!19sChIJx2H_Y0VvK4cR7liQH1u8tWA?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 49,
+            "card_review_snippet": "I had a main drain back up and they came and cleared it so quickly.",
+            "review_tab_opened": true,
+            "review_snippet_count": 3,
+            "sample_review_snippets": [
+              "I had a great experience with Arid Valley Plumbing when my water heater went out. Dustin worked me into his busy day and came to assess, diagnose, and report back to my home warranty company. He was kind, listened to me, explained everything he was doing, and what would happen next. He's a great asset to AVP! After 11 days without hot water due to issues with the water damage mitigation company, I called the Arid office in tears and asked if they could help me. Shawn came out that same day and hooked up the new water heater. He was also knowledgeable and personable and, besides giving me hot water, for which I was truly grateful, he answered my questions about why there was so much water damage and he also made sure I knew how to take care of the water heater to help it last longer. I will definitely use Arid Valley's services again. Price assessment Reasonable price Services Water heater installation",
+              "We had a water heater burst and didn’t know where to start with getting it fixed. Chris F came out and was very thorough and clear about what our options were. We had hot water again that day. Great company, super detailed and very well priced compared to who else services my area.",
+              "We literally had Mario come to our house! Who installed a new water heater. He was fast and such a nice person. We appreciate your help getting our home back into order 🙏 Price assessment Great price Services Water heater installation"
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 49,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 49,
+              "pulled": 3,
+              "target": 6,
+              "note": "Pulled 3/49 (direct-URL fallback)."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "niche": "electrician",
+      "city": "seattle",
+      "pass": false,
+      "elapsed_s": 97.49,
+      "rows": 8,
+      "fail_reasons": {
+        "only_0": 8
+      },
+      "top_rows": [
+        {
+          "business_name": "Electric Company of Seattle",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Electric+Company+of+Seattle/data=!4m7!3m6!1s0x54901388fd49e6cd:0x210f97a50e7e9637!8m2!3d47.6821353!4d-122.2983011!16s%2Fg%2F1tx151rm!19sChIJzeZJ_YgTkFQRN5Z-DqWXDyE?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 65,
+            "card_review_snippet": "quick, thorough, skilled service to minimize cost.",
+            "review_tab_opened": true,
+            "review_snippet_count": 2,
+            "sample_review_snippets": [
+              "Wow, what a great review! We would love for this to have been meant for us, but we don't have any employees by those name. We think the company that earned this review should get the praise if you have a quick minute to post to their page. And if you ever need a hand with more electrical, work we'd be happy to help!",
+              "Incredible service — honest, fast, and caring! When a tree took down the power line to our house, I was in a tough spot. Several big electrical firms tried to take advantage of the situation and quoted me nearly 5X the normal price. Thankfully, the team at The Electric Company truly stepped up. They treated us like neighbors — not just another job — and came out the same day to repair the outside power mast so Seattle City Light could reconnect our power. They were fast, responsive, and clearly cared about helping, not exploiting the situation. The work was excellent, the price was fair, and the entire team was professional and kind. I’m so glad I said no to the big private equity–owned companies and went with a local, family-owned business that genuinely values their customers. The Electric Company has earned all my future electrical business. Highly recommend! Price assessment Great price Price $600–800"
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 65,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 65,
+              "pulled": 2,
+              "target": 6,
+              "note": "Pulled 2/65 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Standard Electric Co",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Standard+Electric+Co/data=!4m7!3m6!1s0x54901576c1c9394f:0x485832a546a87fb5!8m2!3d47.6394465!4d-122.3757943!16s%2Fg%2F1w0j3x8p!19sChIJTznJwXYVkFQRtX-oRqUyWEg?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 17,
+            "card_review_snippet": "Electrician · 2233 15th Ave W",
+            "review_tab_opened": true,
+            "review_snippet_count": 1,
+            "sample_review_snippets": [
+              "Skilled and professional team who solved the problem fast."
+            ],
+            "limited_view": false,
+            "used_card_snippet": false,
+            "worker_timed_out": false,
+            "detail_review_count": 17,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_precise_retry_improved": true,
+            "review_pull_gap": {
+              "listed": 17,
+              "pulled": 1,
+              "target": 6,
+              "note": "Pulled 1/17 (direct-URL fallback)."
+            }
+          }
+        },
+        {
+          "business_name": "Home Electricіan Seattle",
+          "snippet_count": 0,
+          "debug": {
+            "place_url": "https://www.google.com/maps/place/Home+Electric%D1%96an+Seattle/data=!4m7!3m6!1s0x54906b1d94bb876d:0xcb772d90be4868fb!8m2!3d47.606304!4d-122.3321606!16s%2Fg%2F11pv6s1cfx!19sChIJbYe7lB1rkFQR-2hIvpAtd8s?authuser=0&hl=en&rclk=1",
+            "candidate_review_count": 11,
+            "card_review_snippet": "They were competent, thorough, and efficient in their work.",
+            "review_tab_opened": true,
+            "review_snippet_count": 1,
+            "sample_review_snippets": [
+              "They were competent, thorough, and efficient in their work."
+            ],
+            "limited_view": false,
+            "used_card_snippet": true,
+            "worker_timed_out": false,
+            "detail_review_count": 11,
+            "errors": [],
+            "source": "direct_url_fallback",
+            "review_sort_enforced": false,
+            "review_retry_attempted": true,
+            "review_pull_gap": {
+              "listed": 11,
+              "pulled": 1,
+              "target": 6,
+              "note": "Pulled 1/11 (direct-URL fallback)."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

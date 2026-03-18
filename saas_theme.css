@@ -1,0 +1,687 @@
+/* =====================================================================
+   Solo Leads — Premium SaaS Theme
+   Palette: #0A0A0A base, #141414 surface, #1E1E1E elevated
+   Accent: warm gold #D4A574 / #E8C4A0
+   Inspired by: Claude, Linear, Vercel
+   ===================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* === FOUNDATION ==================================================== */
+html, body, [data-testid="stAppViewContainer"] {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif !important;
+  background: #0A0A0A !important;
+  color: #A8A4A0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.01em;
+}
+
+.block-container {
+  max-width: 1140px;
+  padding-top: 1.5rem;
+  padding-bottom: 3rem;
+}
+
+/* === HEADER BAR ==================================================== */
+header[data-testid="stHeader"] {
+  background: rgba(10, 10, 10, 0.85) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  box-shadow: none;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* === SIDEBAR ======================================================= */
+section[data-testid="stSidebar"] {
+  background: #0F0F0F !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: inset -1px 0 0 rgba(255, 255, 255, 0.02);
+}
+
+section[data-testid="stSidebar"] > div {
+  padding-top: 0.6rem;
+}
+
+section[data-testid="stSidebar"] hr {
+  border-color: rgba(255, 255, 255, 0.05);
+  opacity: 1;
+  margin: 0.75rem 0;
+}
+
+/* Sidebar brand */
+.solo-sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.2rem 0 1.2rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  margin-bottom: 1rem;
+}
+
+.solo-sidebar-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 7px;
+  background: linear-gradient(135deg, #D4A574, #C4956A);
+  color: #0A0A0A;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.solo-sidebar-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #F0ECE8;
+  letter-spacing: -0.02em;
+}
+
+/* Sidebar section labels */
+.solo-sidebar-section-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: #504D4A;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.8rem 0 0.35rem 0;
+  margin-top: 0.4rem;
+}
+
+/* Hide the default page radio label */
+section[data-testid="stSidebar"] .stRadio > label:first-child {
+  display: none;
+}
+
+/* === TYPOGRAPHY ==================================================== */
+h1, h2, h3, h4 {
+  color: #F0ECE8 !important;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-size: 1.5rem !important;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.15rem !important;
+}
+
+h3 {
+  font-size: 1rem !important;
+}
+
+p, li, span, label, .stMarkdown {
+  color: #A8A4A0;
+  line-height: 1.6;
+}
+
+.stCaption, [data-testid="stCaptionContainer"] {
+  color: #5A5754 !important;
+  font-size: 0.76rem;
+  letter-spacing: 0.01em;
+}
+
+a { color: #D4A574; text-decoration: none; }
+a:hover { color: #E8C4A0; }
+
+/* === HERO HEADER =================================================== */
+.solo-hero {
+  background: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 2rem 2.2rem 1.8rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.solo-hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(212, 165, 116, 0.3), transparent);
+  pointer-events: none;
+}
+
+.solo-hero::after {
+  content: "";
+  position: absolute;
+  top: -60px; right: -60px;
+  width: 240px;
+  height: 240px;
+  background: radial-gradient(circle, rgba(212, 165, 116, 0.04) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.solo-hero-inner {
+  position: relative;
+  z-index: 1;
+}
+
+.solo-hero-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: #D4A574;
+  background: rgba(212, 165, 116, 0.08);
+  border: 1px solid rgba(212, 165, 116, 0.15);
+  border-radius: 100px;
+  padding: 0.2rem 0.75rem;
+  margin-bottom: 0.8rem;
+}
+
+.solo-hero-title {
+  font-size: 1.65rem !important;
+  font-weight: 700 !important;
+  color: #F5F2EF !important;
+  letter-spacing: -0.03em !important;
+  margin: 0 0 0.3rem 0 !important;
+  line-height: 1.2 !important;
+}
+
+.solo-hero-subtitle {
+  font-size: 0.88rem;
+  color: #706C68 !important;
+  margin: 0 0 1rem 0;
+  line-height: 1.5;
+  max-width: 480px;
+}
+
+.solo-hero-chips {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.solo-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.6rem;
+  border-radius: 100px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.03);
+  font-size: 0.68rem;
+  font-weight: 500;
+  color: #706C68;
+  letter-spacing: 0.01em;
+}
+
+/* === KPI STRIP ===================================================== */
+.solo-kpi-strip {
+  margin-bottom: 1.5rem;
+}
+
+/* === SECTION HEADERS =============================================== */
+.solo-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0 0.75rem 0;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.solo-section-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #F0ECE8;
+  letter-spacing: -0.01em;
+}
+
+/* === EMPTY STATES ================================================== */
+.solo-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.solo-empty-icon {
+  font-size: 2.2rem;
+  font-weight: 300;
+  color: #2A2724;
+  margin-bottom: 1rem;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  background: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.solo-empty-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #E8E4E0;
+  margin-bottom: 0.4rem;
+}
+
+.solo-empty-desc {
+  font-size: 0.85rem;
+  color: #5A5754;
+  max-width: 340px;
+  line-height: 1.55;
+}
+
+.solo-empty-desc strong {
+  color: #D4A574;
+  font-weight: 600;
+}
+
+/* === PRIMARY BUTTONS =============================================== */
+.stButton > button[kind="primary"],
+button[data-testid="stBaseButton-primary"] {
+  border-radius: 8px !important;
+  border: none !important;
+  background: #D4A574 !important;
+  color: #0A0A0A !important;
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  padding: 0.55rem 1.2rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(212, 165, 116, 0.15);
+  transition: all 120ms ease;
+}
+
+.stButton > button[kind="primary"]:hover,
+button[data-testid="stBaseButton-primary"]:hover {
+  background: #E0B588 !important;
+  box-shadow: 0 2px 8px rgba(212, 165, 116, 0.2), 0 0 0 1px rgba(212, 165, 116, 0.25);
+  transform: translateY(-0.5px);
+}
+
+.stButton > button[kind="primary"]:active,
+button[data-testid="stBaseButton-primary"]:active {
+  background: #C4956A !important;
+  box-shadow: 0 0 0 1px rgba(212, 165, 116, 0.15);
+  transform: translateY(0);
+}
+
+/* === SECONDARY BUTTONS ============================================= */
+.stButton > button {
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+  color: #A8A4A0 !important;
+  font-weight: 500;
+  font-size: 0.82rem;
+  padding: 0.55rem 1.2rem;
+  box-shadow: none;
+  transition: all 100ms ease;
+}
+
+.stButton > button:hover {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  color: #F0ECE8 !important;
+  transform: none;
+}
+
+.stButton > button:active {
+  background: rgba(255, 255, 255, 0.03) !important;
+  transform: none;
+}
+
+/* === INPUTS ======================================================== */
+.stTextInput > div > div > input,
+.stTextArea textarea {
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.07) !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+  color: #E8E4E0 !important;
+  font-family: 'Inter', system-ui, sans-serif !important;
+  font-size: 0.85rem;
+  padding: 0.55rem 0.75rem;
+  transition: border-color 120ms ease, box-shadow 120ms ease;
+}
+
+.stTextInput > div > div > input:focus,
+.stTextArea textarea:focus {
+  border-color: rgba(212, 165, 116, 0.4) !important;
+  box-shadow: 0 0 0 3px rgba(212, 165, 116, 0.06) !important;
+  outline: none;
+}
+
+.stTextInput > div > div > input::placeholder,
+.stTextArea textarea::placeholder {
+  color: #3A3734 !important;
+}
+
+/* Input labels */
+.stTextInput label, .stTextArea label,
+.stSelectbox label, .stSlider label {
+  font-size: 0.75rem !important;
+  font-weight: 500 !important;
+  color: #5A5754 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Keep checkbox/radio labels readable */
+.stCheckbox label, .stRadio > label {
+  font-size: 0.83rem !important;
+  font-weight: 400 !important;
+  color: #A8A4A0 !important;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* === SELECTBOX ==================================================== */
+.stSelectbox > div > div > div {
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.07) !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+}
+
+[data-baseweb="popover"] {
+  border-radius: 12px !important;
+  border: 1px solid rgba(255, 255, 255, 0.07) !important;
+  background: #141414 !important;
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.5),
+    0 0 0 1px rgba(255, 255, 255, 0.03) !important;
+}
+
+[data-baseweb="menu"] {
+  background: #141414 !important;
+}
+
+[data-baseweb="menu"] li {
+  color: #A8A4A0 !important;
+  font-size: 0.83rem;
+  border-radius: 6px;
+  margin: 2px 4px;
+}
+
+[data-baseweb="menu"] li:hover {
+  background: rgba(212, 165, 116, 0.08) !important;
+  color: #F0ECE8 !important;
+}
+
+/* === SLIDERS ======================================================= */
+.stSlider [data-baseweb="slider"] {
+  padding-top: 0.5rem;
+}
+
+.stSlider [data-baseweb="slider"] [role="slider"] {
+  background: #D4A574 !important;
+  border: 2px solid #D4A574 !important;
+  width: 14px !important;
+  height: 14px !important;
+  box-shadow: 0 1px 4px rgba(212, 165, 116, 0.25) !important;
+}
+
+.stSlider [data-baseweb="slider"] div[data-testid] > div:first-child {
+  background: #1E1E1E !important;
+}
+
+.stSlider [data-baseweb="slider"] div[role="progressbar"] {
+  background: rgba(212, 165, 116, 0.35) !important;
+}
+
+/* === RADIO + CHECKBOX ============================================== */
+.stRadio [data-baseweb="radio"] > div:first-child {
+  border-color: #2A2724 !important;
+}
+
+.stRadio [data-baseweb="radio"][aria-checked="true"] > div:first-child {
+  background: #D4A574 !important;
+  border-color: #D4A574 !important;
+}
+
+.stCheckbox [data-baseweb="checkbox"] span[aria-checked="true"] {
+  background: #D4A574 !important;
+  border-color: #D4A574 !important;
+}
+
+/* Page radio as tab pills */
+.stRadio [role="radiogroup"] {
+  gap: 0.15rem !important;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 8px;
+  padding: 3px;
+}
+
+.stRadio [role="radiogroup"] label {
+  padding: 0.35rem 0.7rem;
+  border-radius: 6px;
+  transition: all 80ms ease;
+  font-size: 0.83rem !important;
+}
+
+.stRadio [role="radiogroup"] label:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* === METRIC CARDS ================================================== */
+[data-testid="stMetric"] {
+  background: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  transition: border-color 120ms ease;
+}
+
+[data-testid="stMetric"]:hover {
+  border-color: rgba(212, 165, 116, 0.12);
+}
+
+[data-testid="stMetric"] label {
+  color: #504D4A !important;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+[data-testid="stMetric"] [data-testid="stMetricValue"] {
+  color: #F0ECE8 !important;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+/* === DATA TABLE ==================================================== */
+[data-testid="stDataFrame"],
+.stDataFrame {
+  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+[data-testid="stDataFrame"] [role="grid"] {
+  background: #0F0F0F !important;
+}
+
+/* === EXPANDERS ===================================================== */
+[data-testid="stExpander"] {
+  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  border-radius: 10px;
+  background: #111111;
+}
+
+[data-testid="stExpander"] summary {
+  font-weight: 500;
+  color: #A8A4A0;
+  font-size: 0.85rem;
+}
+
+[data-testid="stExpander"] summary:hover {
+  color: #F0ECE8;
+}
+
+/* === ALERTS ======================================================== */
+.stAlert, [data-testid="stAlert"] {
+  border-radius: 10px;
+  border-left: 3px solid #D4A574;
+  background: rgba(212, 165, 116, 0.03) !important;
+}
+
+div[data-baseweb="notification"][kind="info"],
+.element-container .stAlert {
+  background: rgba(212, 165, 116, 0.03) !important;
+}
+
+/* Success */
+div[data-baseweb="notification"][kind="positive"],
+[data-testid="stAlert"][data-baseweb-type="positive"] {
+  border-left-color: #6EAD7E !important;
+  background: rgba(110, 173, 126, 0.04) !important;
+}
+
+/* Warning */
+div[data-baseweb="notification"][kind="warning"],
+[data-testid="stAlert"][data-baseweb-type="warning"] {
+  border-left-color: #D4B85C !important;
+  background: rgba(212, 184, 92, 0.04) !important;
+}
+
+/* Error */
+div[data-baseweb="notification"][kind="negative"],
+[data-testid="stAlert"][data-baseweb-type="negative"] {
+  border-left-color: #C06464 !important;
+  background: rgba(192, 100, 100, 0.04) !important;
+}
+
+/* === PROGRESS BAR ================================================== */
+div[data-testid="stProgress"] > div > div {
+  border-radius: 100px;
+  overflow: hidden;
+  background: #1A1A1A !important;
+  height: 4px !important;
+}
+
+div[data-testid="stProgress"] > div > div > div {
+  background: linear-gradient(90deg, #D4A574, #E8C4A0) !important;
+  border-radius: 100px;
+}
+
+/* === DOWNLOAD BUTTONS ============================================== */
+.stDownloadButton > button {
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+  color: #A8A4A0 !important;
+  font-weight: 500;
+  transition: all 100ms ease;
+}
+
+.stDownloadButton > button:hover {
+  background: rgba(255, 255, 255, 0.06) !important;
+  border-color: rgba(212, 165, 116, 0.2) !important;
+  color: #F0ECE8 !important;
+}
+
+.stDownloadButton > button[kind="primary"],
+button[data-testid="stBaseButton-primary"].stDownloadButton {
+  background: #D4A574 !important;
+  border: none !important;
+  color: #0A0A0A !important;
+  font-weight: 600;
+}
+
+/* === REVIEW TRAINER ================================================ */
+.solo-review-snippet {
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.35rem;
+  background: #111111;
+}
+
+.solo-review-snippet strong {
+  color: #E8E4E0;
+}
+
+/* === SCROLLBAR ===================================================== */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E1E1E;
+  border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2A2724;
+}
+
+/* === TOOLTIP ======================================================= */
+[data-baseweb="tooltip"] {
+  background: #141414 !important;
+  border: 1px solid rgba(255, 255, 255, 0.07) !important;
+  border-radius: 8px !important;
+  color: #A8A4A0 !important;
+  font-size: 0.78rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* === DIVIDERS ====================================================== */
+hr, [data-testid="stMarkdownContainer"] hr {
+  border-color: rgba(255, 255, 255, 0.04) !important;
+  opacity: 1;
+}
+
+/* === SPINNER ======================================================= */
+.stSpinner > div {
+  color: #504D4A !important;
+}
+
+/* === CODE BLOCKS =================================================== */
+code, .stCode, [data-testid="stCode"] {
+  background: #0F0F0F !important;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 6px;
+  color: #D4A574 !important;
+}
+
+/* === ANIMATIONS ==================================================== */
+.solo-fade-in {
+  animation: soloFadeIn 300ms ease-out forwards;
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+@keyframes soloFadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === STREAMLIT OVERRIDES (cleanup) ================================= */
+/* Remove default padding above sidebar content */
+section[data-testid="stSidebar"] [data-testid="stSidebarContent"] {
+  padding-top: 1rem;
+}
+
+/* Make main content area feel more spacious */
+.main .block-container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Soften form borders */
+[data-testid="stForm"] {
+  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  border-radius: 12px;
+  background: #111111;
+  padding: 1.2rem;
+}
